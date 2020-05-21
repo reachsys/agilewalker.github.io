@@ -203,6 +203,51 @@
   </url>
   
   <url>
+    <loc>http://example.org/tags/agile/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://example.org/ko/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/impediment/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/impediment-list-backlog/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/interesting/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/scrum/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/translation/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/</loc>
     <lastmod>2020-05-01T04:15:05+09:00</lastmod>
     <xhtml:link
@@ -355,20 +400,15 @@
   <url>
     <loc>http://example.org/about/</loc>
     <lastmod>2019-11-09T16:20:47-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/blog/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/blog/"
+                href="http://example.org/ko/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/blog/"
+                href="http://example.org/about/"
                 />
   </url>
   

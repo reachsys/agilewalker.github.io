@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on 捷伴行Doc</title>
-    <link>http://example.org/blog/</link>
-    <description>Recent content in Blog on 捷伴行Doc</description>
+    <title>impediment on 捷伴行Doc</title>
+    <link>http://example.org/tags/impediment/</link>
+    <description>Recent content in impediment on 捷伴行Doc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year} 捷伴行Agile, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://example.org/tags/impediment/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -32,54 +32,6 @@ Scrum团队致力于在产品上取得进展。团队成员会经常遇到阻碍
 另外，在Sprint回顾会议期间，Scrum团队可能会在清单中添加新的障碍。 这也是完善障碍清单的绝佳的时机。
 障碍清单是改善(Kaizen)意识的体现（请参阅第101页的改善和改革(Kaizen and Kaikaku)）。空空如也的障碍清单说明团队还没有足够努力地去寻找改进的方法，（“没有问题就是最大的问题”）。另一方面，团队必须及时解决障碍，否则，改进就停止了。清单上的障碍一定不能拖太久。
 真实的故事： 一个团队抱怨他们的经理没有为他们消除障碍。我问，经理是否知道有什么障碍，他们说他们“认为”他知道。于是，我让团队在荧光便笺上写上障碍条目，并在顶部写上并加粗了“阻碍”一词，然后拿去给经理。当时他不在位置上，我把它们贴在他的显示器周围，这样他肯定能看到。半个小时后，他叫着我的名字来找我。他过来问我这些是否是团队碰到的阻碍。我说：是的。他笑着说这样很好，他现在终于知道自己需要做什么了。</description>
-      </item>
-      
-      <item>
-        <title>Markdown Syntax Guide</title>
-        <link>http://example.org/blog/markdown-syntax/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://example.org/blog/markdown-syntax/</guid>
-        <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
-pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
-subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
-caluere tempus&lt;/p&gt;</description>
-      </item>
-      
-      <item>
-        <title>Rich Content</title>
-        <link>http://example.org/blog/rich-content/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://example.org/blog/rich-content/</guid>
-        <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
-pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
-subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
-caluere tempus&lt;/p&gt;</description>
-      </item>
-      
-      <item>
-        <title>Placeholder Text</title>
-        <link>http://example.org/blog/placeholder-text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://example.org/blog/placeholder-text/</guid>
-        <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
-pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
-subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
-caluere tempus&lt;/p&gt;</description>
-      </item>
-      
-      <item>
-        <title>Emoji Support</title>
-        <link>http://example.org/blog/emoji-support/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://example.org/blog/emoji-support/</guid>
-        <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
-pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
-subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
-caluere tempus&lt;/p&gt;</description>
       </item>
       
     

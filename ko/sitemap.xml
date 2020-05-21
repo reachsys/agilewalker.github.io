@@ -318,6 +318,21 @@
   </url>
   
   <url>
+    <loc>http://example.org/ko/about/</loc>
+    <lastmod>2019-11-09T16:20:47-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://example.org/ko/about/"
+                />
+  </url>
+  
+  <url>
     <loc>http://example.org/ko/blog/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
