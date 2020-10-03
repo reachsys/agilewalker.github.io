@@ -23,18 +23,8 @@
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/docs/gettingstarted/basicusage/</loc>
+    <loc>https://www.51scrum.com/books/gettingstarted/basicusage/</loc>
     <lastmod>2020-01-28T00:34:51+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/docs/gettingstarted/basicusage/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.51scrum.com/docs/gettingstarted/basicusage/"
-                />
   </url>
   
   <url>
@@ -53,18 +43,8 @@
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/docs/gettingstarted/configuration/</loc>
+    <loc>https://www.51scrum.com/books/gettingstarted/configuration/</loc>
     <lastmod>2020-01-28T00:34:56+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/docs/gettingstarted/configuration/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.51scrum.com/docs/gettingstarted/configuration/"
-                />
   </url>
   
   <url>
@@ -83,18 +63,8 @@
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/docs/gettingstarted/installation/</loc>
+    <loc>https://www.51scrum.com/books/gettingstarted/installation/</loc>
     <lastmod>2020-01-28T00:34:13+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/docs/gettingstarted/installation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.51scrum.com/docs/gettingstarted/installation/"
-                />
   </url>
   
   <url>
@@ -113,18 +83,8 @@
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/docs/gettingstarted/quickstart/</loc>
+    <loc>https://www.51scrum.com/books/gettingstarted/quickstart/</loc>
     <lastmod>2020-01-28T00:34:41+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/docs/gettingstarted/quickstart/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.51scrum.com/docs/gettingstarted/quickstart/"
-                />
   </url>
   
   <url>
@@ -143,68 +103,43 @@
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/docs/depth1/</loc>
+    <loc>https://www.51scrum.com/books/escape-velocity/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/docs/depth1/depth2/</loc>
+    <loc>https://www.51scrum.com/books/fixing-your-scrum/</loc>
     <lastmod>2020-02-28T10:08:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/docs/depth1/depth2/depth3/</loc>
-    <lastmod>2020-02-28T10:08:56+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.51scrum.com/docs/depth1/test1/</loc>
+    <loc>https://www.51scrum.com/books/escape-velocity/test1/</loc>
     <lastmod>2020-01-30T00:38:25+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/docs/depth1/depth2/test2/</loc>
+    <loc>https://www.51scrum.com/books/fixing-your-scrum/test1/</loc>
     <lastmod>2020-01-30T00:38:25+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/docs/depth1/depth2/depth3/test3/</loc>
-    <lastmod>2020-01-30T00:38:25+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.51scrum.com/docs/gettingstarted/</loc>
+    <loc>https://www.51scrum.com/books/gettingstarted/</loc>
     <lastmod>2020-01-28T00:34:39+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/docs/gettingstarted/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.51scrum.com/docs/gettingstarted/"
-                />
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/docs/depth1/ttttest/</loc>
+    <loc>https://www.51scrum.com/books/escape-velocity/ttttest/</loc>
     <lastmod>2020-01-30T00:38:25+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/docs/contentmanagement/</loc>
+    <loc>https://www.51scrum.com/books/fixing-your-scrum/ttttest/</loc>
+    <lastmod>2020-01-30T00:38:25+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.51scrum.com/books/contentmanagement/</loc>
     <lastmod>2020-01-28T00:36:39+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/docs/contentmanagement/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.51scrum.com/docs/contentmanagement/"
-                />
   </url>
   
   <url>
@@ -273,108 +208,38 @@
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/docs/relatedcontent/</loc>
+    <loc>https://www.51scrum.com/books/relatedcontent/</loc>
     <lastmod>2020-01-28T00:39:09+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/docs/relatedcontent/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.51scrum.com/docs/relatedcontent/"
-                />
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/docs/pageresources/</loc>
+    <loc>https://www.51scrum.com/books/pageresources/</loc>
     <lastmod>2020-01-28T00:39:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/docs/pageresources/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.51scrum.com/docs/pageresources/"
-                />
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/docs/pagebundles/</loc>
+    <loc>https://www.51scrum.com/books/pagebundles/</loc>
     <lastmod>2020-01-28T00:38:59+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/docs/pagebundles/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.51scrum.com/docs/pagebundles/"
-                />
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/docs/contentfortmats/</loc>
+    <loc>https://www.51scrum.com/books/contentfortmats/</loc>
     <lastmod>2020-01-28T00:38:51+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/docs/contentfortmats/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.51scrum.com/docs/contentfortmats/"
-                />
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/docs/imageprocessing/</loc>
+    <loc>https://www.51scrum.com/books/imageprocessing/</loc>
     <lastmod>2020-01-28T00:38:48+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/docs/imageprocessing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.51scrum.com/docs/imageprocessing/"
-                />
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/docs/contentmanagement/shortcodes/</loc>
+    <loc>https://www.51scrum.com/books/contentmanagement/shortcodes/</loc>
     <lastmod>2020-01-28T00:36:19+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/docs/contentmanagement/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.51scrum.com/docs/contentmanagement/shortcodes/"
-                />
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/docs/contentmanagement/frontmatter/</loc>
+    <loc>https://www.51scrum.com/books/contentmanagement/frontmatter/</loc>
     <lastmod>2020-01-28T00:36:14+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/docs/contentmanagement/frontmatter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.51scrum.com/docs/contentmanagement/frontmatter/"
-                />
   </url>
   
   <url>
@@ -393,18 +258,8 @@
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/docs/</loc>
+    <loc>https://www.51scrum.com/books/</loc>
     <lastmod>2020-01-11T14:09:21+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/docs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.51scrum.com/docs/"
-                />
   </url>
   
   <url>
@@ -483,18 +338,8 @@
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/docs/contentmanagement/sections/</loc>
+    <loc>https://www.51scrum.com/books/contentmanagement/sections/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/docs/contentmanagement/sections/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.51scrum.com/docs/contentmanagement/sections/"
-                />
   </url>
   
   <url>

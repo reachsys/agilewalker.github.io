@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>捷伴行Doc</title>
+    <title>捷伴行Thought on 捷伴行Doc</title>
     <link>https://www.51scrum.com/</link>
-    <description>Recent content on 捷伴行Doc</description>
+    <description>Recent content in 捷伴行Thought on 捷伴行Doc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year} 捷伴行Agile, All Rights Reserved</copyright>
@@ -34,10 +34,10 @@
       
       <item>
         <title>Basic Usage</title>
-        <link>https://www.51scrum.com/docs/gettingstarted/basicusage/</link>
+        <link>https://www.51scrum.com/books/gettingstarted/basicusage/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:51 +0900</pubDate>
         
-        <guid>https://www.51scrum.com/docs/gettingstarted/basicusage/</guid>
+        <guid>https://www.51scrum.com/books/gettingstarted/basicusage/</guid>
         <description>Markdown here</description>
       </item>
       
@@ -52,10 +52,10 @@
       
       <item>
         <title>Configuration</title>
-        <link>https://www.51scrum.com/docs/gettingstarted/configuration/</link>
+        <link>https://www.51scrum.com/books/gettingstarted/configuration/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:56 +0900</pubDate>
         
-        <guid>https://www.51scrum.com/docs/gettingstarted/configuration/</guid>
+        <guid>https://www.51scrum.com/books/gettingstarted/configuration/</guid>
         <description>Markdown here</description>
       </item>
       
@@ -70,10 +70,10 @@
       
       <item>
         <title>Installation</title>
-        <link>https://www.51scrum.com/docs/gettingstarted/installation/</link>
+        <link>https://www.51scrum.com/books/gettingstarted/installation/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:13 +0900</pubDate>
         
-        <guid>https://www.51scrum.com/docs/gettingstarted/installation/</guid>
+        <guid>https://www.51scrum.com/books/gettingstarted/installation/</guid>
         <description>Markdown here</description>
       </item>
       
@@ -88,10 +88,10 @@
       
       <item>
         <title>Quick Start</title>
-        <link>https://www.51scrum.com/docs/gettingstarted/quickstart/</link>
+        <link>https://www.51scrum.com/books/gettingstarted/quickstart/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:41 +0900</pubDate>
         
-        <guid>https://www.51scrum.com/docs/gettingstarted/quickstart/</guid>
+        <guid>https://www.51scrum.com/books/gettingstarted/quickstart/</guid>
         <description>Markdown here</description>
       </item>
       
@@ -106,37 +106,37 @@
       
       <item>
         <title>Test 1</title>
-        <link>https://www.51scrum.com/docs/depth1/test1/</link>
+        <link>https://www.51scrum.com/books/escape-velocity/test1/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
         
-        <guid>https://www.51scrum.com/docs/depth1/test1/</guid>
+        <guid>https://www.51scrum.com/books/escape-velocity/test1/</guid>
         <description></description>
       </item>
       
       <item>
-        <title>Test 2</title>
-        <link>https://www.51scrum.com/docs/depth1/depth2/test2/</link>
+        <title>Test 1</title>
+        <link>https://www.51scrum.com/books/fixing-your-scrum/test1/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
         
-        <guid>https://www.51scrum.com/docs/depth1/depth2/test2/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>Test 3</title>
-        <link>https://www.51scrum.com/docs/depth1/depth2/depth3/test3/</link>
-        <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
-        
-        <guid>https://www.51scrum.com/docs/depth1/depth2/depth3/test3/</guid>
+        <guid>https://www.51scrum.com/books/fixing-your-scrum/test1/</guid>
         <description></description>
       </item>
       
       <item>
         <title>ttttest</title>
-        <link>https://www.51scrum.com/docs/depth1/ttttest/</link>
+        <link>https://www.51scrum.com/books/escape-velocity/ttttest/</link>
         <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
         
-        <guid>https://www.51scrum.com/docs/depth1/ttttest/</guid>
+        <guid>https://www.51scrum.com/books/escape-velocity/ttttest/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>ttttest</title>
+        <link>https://www.51scrum.com/books/fixing-your-scrum/ttttest/</link>
+        <pubDate>Thu, 30 Jan 2020 00:38:25 +0900</pubDate>
+        
+        <guid>https://www.51scrum.com/books/fixing-your-scrum/ttttest/</guid>
         <description></description>
       </item>
       
@@ -166,64 +166,64 @@
       
       <item>
         <title>Related content</title>
-        <link>https://www.51scrum.com/docs/relatedcontent/</link>
+        <link>https://www.51scrum.com/books/relatedcontent/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:09 +0900</pubDate>
         
-        <guid>https://www.51scrum.com/docs/relatedcontent/</guid>
+        <guid>https://www.51scrum.com/books/relatedcontent/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Page Resources</title>
-        <link>https://www.51scrum.com/docs/pageresources/</link>
+        <link>https://www.51scrum.com/books/pageresources/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
         
-        <guid>https://www.51scrum.com/docs/pageresources/</guid>
+        <guid>https://www.51scrum.com/books/pageresources/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Page Bundles</title>
-        <link>https://www.51scrum.com/docs/pagebundles/</link>
+        <link>https://www.51scrum.com/books/pagebundles/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:59 +0900</pubDate>
         
-        <guid>https://www.51scrum.com/docs/pagebundles/</guid>
+        <guid>https://www.51scrum.com/books/pagebundles/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Content Formats</title>
-        <link>https://www.51scrum.com/docs/contentfortmats/</link>
+        <link>https://www.51scrum.com/books/contentfortmats/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:51 +0900</pubDate>
         
-        <guid>https://www.51scrum.com/docs/contentfortmats/</guid>
+        <guid>https://www.51scrum.com/books/contentfortmats/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Image Processing</title>
-        <link>https://www.51scrum.com/docs/imageprocessing/</link>
+        <link>https://www.51scrum.com/books/imageprocessing/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:48 +0900</pubDate>
         
-        <guid>https://www.51scrum.com/docs/imageprocessing/</guid>
+        <guid>https://www.51scrum.com/books/imageprocessing/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Shortcodes</title>
-        <link>https://www.51scrum.com/docs/contentmanagement/shortcodes/</link>
+        <link>https://www.51scrum.com/books/contentmanagement/shortcodes/</link>
         <pubDate>Tue, 28 Jan 2020 00:36:19 +0900</pubDate>
         
-        <guid>https://www.51scrum.com/docs/contentmanagement/shortcodes/</guid>
+        <guid>https://www.51scrum.com/books/contentmanagement/shortcodes/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Frontmatter</title>
-        <link>https://www.51scrum.com/docs/contentmanagement/frontmatter/</link>
+        <link>https://www.51scrum.com/books/contentmanagement/frontmatter/</link>
         <pubDate>Tue, 28 Jan 2020 00:36:14 +0900</pubDate>
         
-        <guid>https://www.51scrum.com/docs/contentmanagement/frontmatter/</guid>
+        <guid>https://www.51scrum.com/books/contentmanagement/frontmatter/</guid>
         <description>Markdown here</description>
       </item>
       
@@ -256,10 +256,10 @@ caluere tempus&lt;/p&gt;</description>
       
       <item>
         <title>Section</title>
-        <link>https://www.51scrum.com/docs/contentmanagement/sections/</link>
+        <link>https://www.51scrum.com/books/contentmanagement/sections/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://www.51scrum.com/docs/contentmanagement/sections/</guid>
+        <guid>https://www.51scrum.com/books/contentmanagement/sections/</guid>
         <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
       </item>
       
