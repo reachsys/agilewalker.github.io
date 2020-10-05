@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Depth 1 on 捷伴行Doc</title>
+    <title>Fixing Your Scrum on 捷伴行Doc</title>
     <link>https://www.51scrum.com/books/fixing-your-scrum/</link>
-    <description>Recent content in Depth 1 on 捷伴行Doc</description>
+    <description>Recent content in Fixing Your Scrum on 捷伴行Doc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year} 捷伴行Agile, All Rights Reserved</copyright>
@@ -13,6 +13,26 @@
     
     
     
+      
+      <item>
+        <title>以价值驱动的方法破除不良的Scrum</title>
+        <link>https://www.51scrum.com/books/fixing-your-scrum/ch3.-breaking-bad-scrum-with-a-value-driven-approachfixing-your-scrum/</link>
+        <pubDate>Mon, 05 Oct 2020 00:38:25 +0800</pubDate>
+        
+        <guid>https://www.51scrum.com/books/fixing-your-scrum/ch3.-breaking-bad-scrum-with-a-value-driven-approachfixing-your-scrum/</guid>
+        <description>原创连载译文 Fixing Your Scrum (转载请联系捷伴行)
+ Chapter 3 第3章 Breaking Bad Scrum with a Value-Driven Approach 以价值驱动的方法破除不良的Scrum Knowing what we value is important. Bad Scrum thrives in environments where intent isn’t clear, values are implicit instead of explicit, and old ways of working take precedence over innovation. But if you don’t know the Scrum values, how can you begin to fix your Scrum? Simple: you can’t. So let’s take a quick tour of the Scrum values to make sure they’re fresh in your mind.</description>
+      </item>
+      
+      <item>
+        <title>为什么Scrum会变质</title>
+        <link>https://www.51scrum.com/books/fixing-your-scrum/ch2.-why-scrum-goes-badfixing-your-scrum/</link>
+        <pubDate>Fri, 02 Oct 2020 00:38:25 +0800</pubDate>
+        
+        <guid>https://www.51scrum.com/books/fixing-your-scrum/ch2.-why-scrum-goes-badfixing-your-scrum/</guid>
+        <description>原创连载译文 Fixing Your Scrum (转载请联系捷伴行)
+ Chapter 2 第2章 Why Scrum Goes Bad 为什么Scrum会变质 Scrum itself doesn’t go bad—it’s the ways that organizations implement it that can be problematic. We frequently see people changing the Scrum framework to fit their organization rather than the organization itself changing. Changing an organization can be slow and frustrating, but the whole point of adopting Scrum is to switch to a more efficient and empowering way of creating products, so change is a must.</description>
+      </item>
       
       <item>
         <title>Test 1</title>

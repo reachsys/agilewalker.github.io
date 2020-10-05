@@ -33,29 +33,11 @@
       </item>
       
       <item>
-        <title>Basic Usage</title>
-        <link>https://www.51scrum.com/books/gettingstarted/basicusage/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:51 +0900</pubDate>
-        
-        <guid>https://www.51scrum.com/books/gettingstarted/basicusage/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
         <title>April 2019</title>
         <link>https://www.51scrum.com/updates/2019_april/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:48 +0900</pubDate>
         
         <guid>https://www.51scrum.com/updates/2019_april/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Configuration</title>
-        <link>https://www.51scrum.com/books/gettingstarted/configuration/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:56 +0900</pubDate>
-        
-        <guid>https://www.51scrum.com/books/gettingstarted/configuration/</guid>
         <description>Markdown here</description>
       </item>
       
@@ -69,29 +51,11 @@
       </item>
       
       <item>
-        <title>Installation</title>
-        <link>https://www.51scrum.com/books/gettingstarted/installation/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:13 +0900</pubDate>
-        
-        <guid>https://www.51scrum.com/books/gettingstarted/installation/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
         <title>February 2019</title>
         <link>https://www.51scrum.com/updates/2019_february/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
         
         <guid>https://www.51scrum.com/updates/2019_february/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Quick Start</title>
-        <link>https://www.51scrum.com/books/gettingstarted/quickstart/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:41 +0900</pubDate>
-        
-        <guid>https://www.51scrum.com/books/gettingstarted/quickstart/</guid>
         <description>Markdown here</description>
       </item>
       
@@ -102,6 +66,26 @@
         
         <guid>https://www.51scrum.com/updates/2019_january/</guid>
         <description>Markdown here</description>
+      </item>
+      
+      <item>
+        <title>以价值驱动的方法破除不良的Scrum</title>
+        <link>https://www.51scrum.com/books/fixing-your-scrum/ch3.-breaking-bad-scrum-with-a-value-driven-approachfixing-your-scrum/</link>
+        <pubDate>Mon, 05 Oct 2020 00:38:25 +0800</pubDate>
+        
+        <guid>https://www.51scrum.com/books/fixing-your-scrum/ch3.-breaking-bad-scrum-with-a-value-driven-approachfixing-your-scrum/</guid>
+        <description>原创连载译文 Fixing Your Scrum (转载请联系捷伴行)
+ Chapter 3 第3章 Breaking Bad Scrum with a Value-Driven Approach 以价值驱动的方法破除不良的Scrum Knowing what we value is important. Bad Scrum thrives in environments where intent isn’t clear, values are implicit instead of explicit, and old ways of working take precedence over innovation. But if you don’t know the Scrum values, how can you begin to fix your Scrum? Simple: you can’t. So let’s take a quick tour of the Scrum values to make sure they’re fresh in your mind.</description>
+      </item>
+      
+      <item>
+        <title>为什么Scrum会变质</title>
+        <link>https://www.51scrum.com/books/fixing-your-scrum/ch2.-why-scrum-goes-badfixing-your-scrum/</link>
+        <pubDate>Fri, 02 Oct 2020 00:38:25 +0800</pubDate>
+        
+        <guid>https://www.51scrum.com/books/fixing-your-scrum/ch2.-why-scrum-goes-badfixing-your-scrum/</guid>
+        <description>原创连载译文 Fixing Your Scrum (转载请联系捷伴行)
+ Chapter 2 第2章 Why Scrum Goes Bad 为什么Scrum会变质 Scrum itself doesn’t go bad—it’s the ways that organizations implement it that can be problematic. We frequently see people changing the Scrum framework to fit their organization rather than the organization itself changing. Changing an organization can be slow and frustrating, but the whole point of adopting Scrum is to switch to a more efficient and empowering way of creating products, so change is a must.</description>
       </item>
       
       <item>
@@ -165,69 +149,6 @@
       </item>
       
       <item>
-        <title>Related content</title>
-        <link>https://www.51scrum.com/books/relatedcontent/</link>
-        <pubDate>Tue, 28 Jan 2020 00:39:09 +0900</pubDate>
-        
-        <guid>https://www.51scrum.com/books/relatedcontent/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Page Resources</title>
-        <link>https://www.51scrum.com/books/pageresources/</link>
-        <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
-        
-        <guid>https://www.51scrum.com/books/pageresources/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Page Bundles</title>
-        <link>https://www.51scrum.com/books/pagebundles/</link>
-        <pubDate>Tue, 28 Jan 2020 00:38:59 +0900</pubDate>
-        
-        <guid>https://www.51scrum.com/books/pagebundles/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Content Formats</title>
-        <link>https://www.51scrum.com/books/contentfortmats/</link>
-        <pubDate>Tue, 28 Jan 2020 00:38:51 +0900</pubDate>
-        
-        <guid>https://www.51scrum.com/books/contentfortmats/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Image Processing</title>
-        <link>https://www.51scrum.com/books/imageprocessing/</link>
-        <pubDate>Tue, 28 Jan 2020 00:38:48 +0900</pubDate>
-        
-        <guid>https://www.51scrum.com/books/imageprocessing/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Shortcodes</title>
-        <link>https://www.51scrum.com/books/contentmanagement/shortcodes/</link>
-        <pubDate>Tue, 28 Jan 2020 00:36:19 +0900</pubDate>
-        
-        <guid>https://www.51scrum.com/books/contentmanagement/shortcodes/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Frontmatter</title>
-        <link>https://www.51scrum.com/books/contentmanagement/frontmatter/</link>
-        <pubDate>Tue, 28 Jan 2020 00:36:14 +0900</pubDate>
-        
-        <guid>https://www.51scrum.com/books/contentmanagement/frontmatter/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
         <title>About</title>
         <link>https://www.51scrum.com/about/</link>
         <pubDate>Sat, 09 Nov 2019 16:20:47 -0500</pubDate>
@@ -252,15 +173,6 @@
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
 caluere tempus&lt;/p&gt;</description>
-      </item>
-      
-      <item>
-        <title>Section</title>
-        <link>https://www.51scrum.com/books/contentmanagement/sections/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://www.51scrum.com/books/contentmanagement/sections/</guid>
-        <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
       </item>
       
       <item>

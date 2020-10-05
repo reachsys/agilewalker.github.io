@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/books/gettingstarted/basicusage/</loc>
-    <lastmod>2020-01-28T00:34:51+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.51scrum.com/updates/2019_april/</loc>
     <lastmod>2020-01-28T00:10:48+09:00</lastmod>
     <xhtml:link
@@ -40,11 +35,6 @@
                 hreflang="en"
                 href="https://www.51scrum.com/updates/2019_april/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.51scrum.com/books/gettingstarted/configuration/</loc>
-    <lastmod>2020-01-28T00:34:56+09:00</lastmod>
   </url>
   
   <url>
@@ -63,11 +53,6 @@
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/books/gettingstarted/installation/</loc>
-    <lastmod>2020-01-28T00:34:13+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.51scrum.com/updates/2019_february/</loc>
     <lastmod>2020-01-28T00:10:37+09:00</lastmod>
     <xhtml:link
@@ -83,11 +68,6 @@
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/books/gettingstarted/quickstart/</loc>
-    <lastmod>2020-01-28T00:34:41+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.51scrum.com/updates/2019_january/</loc>
     <lastmod>2020-01-28T00:10:09+09:00</lastmod>
     <xhtml:link
@@ -100,6 +80,16 @@
                 hreflang="en"
                 href="https://www.51scrum.com/updates/2019_january/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.51scrum.com/books/fixing-your-scrum/ch3.-breaking-bad-scrum-with-a-value-driven-approachfixing-your-scrum/</loc>
+    <lastmod>2020-10-05T00:38:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.51scrum.com/books/fixing-your-scrum/ch2.-why-scrum-goes-badfixing-your-scrum/</loc>
+    <lastmod>2020-10-02T00:38:25+08:00</lastmod>
   </url>
   
   <url>
@@ -123,11 +113,6 @@
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/books/gettingstarted/</loc>
-    <lastmod>2020-01-28T00:34:39+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.51scrum.com/books/escape-velocity/ttttest/</loc>
     <lastmod>2020-01-30T00:38:25+09:00</lastmod>
   </url>
@@ -138,8 +123,8 @@
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/books/contentmanagement/</loc>
-    <lastmod>2020-01-28T00:36:39+09:00</lastmod>
+    <loc>https://www.51scrum.com/books/</loc>
+    <lastmod>2020-10-01T14:09:21+08:00</lastmod>
   </url>
   
   <url>
@@ -208,41 +193,6 @@
   </url>
   
   <url>
-    <loc>https://www.51scrum.com/books/relatedcontent/</loc>
-    <lastmod>2020-01-28T00:39:09+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.51scrum.com/books/pageresources/</loc>
-    <lastmod>2020-01-28T00:39:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.51scrum.com/books/pagebundles/</loc>
-    <lastmod>2020-01-28T00:38:59+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.51scrum.com/books/contentfortmats/</loc>
-    <lastmod>2020-01-28T00:38:51+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.51scrum.com/books/imageprocessing/</loc>
-    <lastmod>2020-01-28T00:38:48+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.51scrum.com/books/contentmanagement/shortcodes/</loc>
-    <lastmod>2020-01-28T00:36:19+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.51scrum.com/books/contentmanagement/frontmatter/</loc>
-    <lastmod>2020-01-28T00:36:14+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.51scrum.com/updates/</loc>
     <lastmod>2020-01-28T00:08:29+09:00</lastmod>
     <xhtml:link
@@ -255,11 +205,6 @@
                 hreflang="en"
                 href="https://www.51scrum.com/updates/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.51scrum.com/books/</loc>
-    <lastmod>2020-01-11T14:09:21+09:00</lastmod>
   </url>
   
   <url>
@@ -335,11 +280,6 @@
                 hreflang="en"
                 href="https://www.51scrum.com/blog/markdown-syntax/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.51scrum.com/books/contentmanagement/sections/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
