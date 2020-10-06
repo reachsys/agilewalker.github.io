@@ -1,37 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Books on 捷伴行Doc</title>
+    <title>Books on 捷伴行Thought</title>
     <link>https://www.51scrum.com/books/</link>
-    <description>Recent content in Books on 捷伴行Doc</description>
+    <description>Recent content in Books on 捷伴行Thought</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>&amp;copy;{year} 捷伴行Agile, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 01 Oct 2020 14:09:21 +0800</lastBuildDate>
-    
-        <atom:link href="https://www.51scrum.com/books/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    
-      
-      <item>
-        <title>Escape Velocity</title>
-        <link>https://www.51scrum.com/books/escape-velocity/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://www.51scrum.com/books/escape-velocity/</guid>
-        <description></description>
-      </item>
-      
-      <item>
-        <title>Fixing Your Scrum</title>
-        <link>https://www.51scrum.com/books/fixing-your-scrum/</link>
-        <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
-        
-        <guid>https://www.51scrum.com/books/fixing-your-scrum/</guid>
-        <description></description>
-      </item>
-      
-    
+    <copyright>&amp;copy;2019 - {year} 捷伴行Agile, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 01 Oct 2020 14:09:21 +0800</lastBuildDate><atom:link href="https://www.51scrum.com/books/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

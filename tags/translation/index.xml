@@ -1,67 +1,216 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>translation on 捷伴行Doc</title>
+    <title>translation on 捷伴行Thought</title>
     <link>https://www.51scrum.com/tags/translation/</link>
-    <description>Recent content in translation on 捷伴行Doc</description>
+    <description>Recent content in translation on 捷伴行Thought</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>&amp;copy;{year} 捷伴行Agile, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://www.51scrum.com/tags/translation/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    
+    <copyright>&amp;copy;2019 - {year} 捷伴行Agile, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.51scrum.com/tags/translation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scrum面板</title>
+      <link>https://www.51scrum.com/blog/scrum-board/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
-      <item>
-        <title>Scrum面板</title>
-        <link>https://www.51scrum.com/blog/scrum-board/</link>
-        <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://www.51scrum.com/blog/scrum-board/</guid>
-        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍&lt;/h3&gt;
-&lt;p&gt;译者序：本文说到的Scrum面板是一个重要的Scrum工具，是以物理或电子的方式展示当前Sprint范围及其状态。 在Sprint计划期间，当前Sprint计划的产品增量被分解为可执行任务。 Scrum面板主要包含故事及其相关任务，通常也称为任务板。作为以Scrum框架进行的敏捷实践中重要的可视化信息发射源，它在Scrum中被广泛应用。如果对Kanban很熟悉的朋友，这里有一句话：Kanban面板控制团队；而团队控制Scrum面板。阅读本文去品位一下吧。&lt;/p&gt;</description>
-      </item>
+      <guid>https://www.51scrum.com/blog/scrum-board/</guid>
+      <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍&lt;/h3&gt;
+&lt;p&gt;译者序：本文说到的Scrum面板是一个重要的Scrum工具，是以物理或电子的方式展示当前Sprint范围及其状态。 在Sprint计划期间，当前Sprint计划的产品增量被分解为可执行任务。 Scrum面板主要包含故事及其相关任务，通常也称为任务板。作为以Scrum框架进行的敏捷实践中重要的可视化信息发射源，它在Scrum中被广泛应用。如果对Kanban很熟悉的朋友，这里有一句话：Kanban面板控制团队；而团队控制Scrum面板。阅读本文去品位一下吧。&lt;/p&gt;
+&lt;h3 id=&#34;正文&#34;&gt;正文&lt;/h3&gt;
+&lt;p&gt;Sprint的规划结束于产品负责人和开发团队就Sprint目标达成一致之时。 开发团队预测了他们认为将在此Sprint中交付哪些产品待办事项（PBI）。 生产活动就此开始了。&lt;/p&gt;
+&lt;p&gt;开发团队的计划也会体现在sprint 待办列表里，团队成员正以他们认为的最佳方式运用自己的技能完成计划中的任务。并且 随着新的信息在开发过程中不断涌现，开发团队成员也在努力地重新制定相应的计划。&lt;/p&gt;
+&lt;p&gt;开发团队可能会集体忽视其构建和开发目标。 团队需要不断地同步其工作，以便根据需要检查和调整计划。 在1896年，一名英国皇家工程师上校首次将“战争迷雾”一词定义为“一种无知的状态：指挥官经常发现自己不仅对敌人，而且对朋友的真实力量和地位一无所知。 ”（ The Fog of War [HM96]）。 通常情况下，并不是信息的匮乏，而是由于迅速变化的战术局势以及大量的各种来源和格式的情报造成了迷雾。 背景噪声会阻止对于事务关键信息的及时聚焦。 信息超载会导致情绪超载，进而导致决策不力。&lt;/p&gt;
+&lt;p&gt;将自治团队与军事指挥官的情况进行比较。我们可以根据Sprint目标来定义战略方向，而在较小程度上可以根据开发团队对此Sprint的预测来完成PBI的工作。 PBI通常是实现Sprint目标的业务紧迫性的一种方法，而任务或工作项是实现PBI的战术目标。它们是团队选择的用以完成PBI的途径。开发团队可能会在Sprint backlog工作开始时就规划出这条途径，但是进展让事情越发清晰，从而挫败了所谓的最佳计划。因此，团队必须经常重新考虑他们的战术。没有透明性，具有不同职能背景的人们之间的协作将更加困难。各个开发团队成员需要不断地被提醒，他们的工作与Sprint目标的总体规划如何相关，整个团队需要定期集体关注该目标。因此：创建一个Scrum面板，代表Sprint backlog及其在Sprint期间的进展。开发团队对其进行维护，控制和拥有。将其张贴在所有开发团队成员都可以轻松访问的地方，作为一个信息辐射器。 Scrum面板，又称任务板，通常是墙上的大海报；它将开发任务和其他Sprint待办事项与产品待办事项关联，并将PBI与相应的Sprint目标关联。&lt;/p&gt;
+&lt;p&gt;团队现在可以将任务的战术工作状态连同PBI完成状态一起可视化，并且可以使用特定任务状态来确定他们是否仍然进展正常或者是否需要更新工作计划以完成PBI或达到Sprint目标 。 如果团队可以在Sprint Backlog上看到进度，就可以使重新规划变得更加容易。 团队可以与Scrum面板一起发布Sprint目标声明和Sprint燃尽图。&lt;/p&gt;
+&lt;p&gt;开发团队共同拥有Scrum面板，并且通常在团队完成Sprint待办事项时才会对其进行更新。不过ScrumMaster可能希望提醒开发团队使Scrum面板时刻保持最新，同时也会帮助开发团队了解Scrum面板上体现的数据的重要性。尤其是当不完整或延迟的开发任务或其他Sprint待办事项可能影响到开发团队而不能实现其预期的工作时，团队可以采取集体行动移除这个障碍。&lt;/p&gt;
+&lt;p&gt;简而言之，Scrum面板是行动管理的计划工具，由开发团队拥有和控制，因此，可以帮助建立开发团队真正实现自我管理并形成必要的肌肉记忆。 持续使用Scrum面板可以降低开发人员试图发现其他开发团队成员正在做什么的沟通成本，并降低他们管理各种任务之间的依赖关系的成本。 总而言之，它可以帮助每个人保持集体的注意力。可能的话，最好将每日Scrum安排在Scrum面板周围，这样开发团队可以使用最新信息来创建每日计划。&lt;/p&gt;
+&lt;p&gt;Scrum没有规定Scrum面板的格式。 由团队来决定呈现所需信息的最佳方法。 所有开发人员都应该有可能作为一个团队一起查看和操纵Scrum面板。 较小的计算机屏幕不太合适，即使屏幕很大，使用键盘或指针设备移动项目也很麻烦。 最好的Scrum面板可以触碰到，并使用简单的“技术”，例如便签或白板。 以下仅描述一个示例：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;面板是展示矩阵的大海报。卡和便签分别代表PBI和Sprint待办事项。 团队移动便签，以表示进度直至完成。&lt;/li&gt;
+&lt;li&gt;面板显眼地将“ Sprint目标”显示为命名的状态或解释最终用户如何受益的简短说明。&lt;/li&gt;
+&lt;li&gt;图表在当前Sprint中的每个PBI都有一行。每个PBI都有一栏；对于Sprint待办事项“待办事项”；对于Sprint待办事项“进行中”；对于完成的Sprint待办事项和完成的PBI是“完成”。&lt;/li&gt;
+&lt;li&gt;代表PBI的卡片从PBI列开始，只有在完成所有Sprint待办事项且满足“完成”定义的情况下，团队才会将其移动到“完成”列。开发团队成员开始任务时，会将代表它的便笺移动到“进行中”列。当他们完成Sprint待办事项时，便会将其便笺移动到“完成”列，处理该便笺的开发人员现在就可以选择一个新的便笺。&lt;/li&gt;
+&lt;li&gt;当所有PBI卡都到达“完成”列时，开发团队已达到其预期。&lt;/li&gt;
+&lt;li&gt;每个Scrum面板的持续时间为Sprint的长度。新的Sprint需要团队创建一个新的Scrum 面板或重置一个现有的Scrum 面板。这个模式是个信息辐射器，与Sprint 燃尽图相关。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;不过，尽管表面上有相似之处，不应将Scrum面板与看板面板混淆。 尽管它们都描述了工作项在不同状态下的移动进度，但目的并不相同。 自治团队拥有并控制Scrum面板：但不受面板控制。 它只是一种工具，使团队可以根据需要计划和重新计划如何在Sprint中实现其目标。&lt;/p&gt;
+&lt;p&gt;另一方面，看板面板映射了产品或功能的生命周期，从产品开发到产品进入其各种状态（可能有多个团队在此工作），直至团队将功能交付给顾客。每个状态都有与之关联的在制品（WIP）限制。看板的拥护者（在软件开发中；请参见Successful Evolutionary Change for Your Technology Business [And10]）声称，它可视化了一个“拉动”系统，其中每个上游状态仅在下游有可用容量时才将其输出送到下一个下游状态。不过，看板不要求团队具有跨职能或自我管理的能力。由谁来控制面板及设置在制品限制都是开放的。在这种情况下，命令与控制的管理人员可以通过设置任意WIP限制并迫使开发人员发挥完全的能力，将看板板转变为“推送”系统。相比之下，在Scrum中，自我管理的开发团队通过逐个Sprint从产品Backlog的顶部拉出PBI，并通过集群战术来完成每一个Sprint待办事项。&lt;/p&gt;
+&lt;p&gt;最后一点：外行通常将“做Scrum”等同于使用Scrum面板。 尽管Scrum面板是Scrum组织中最引人注目的工具之一（另一个是每日Scrum），不过Scrum所拥有的功能远远超出任何一套工具所能捕捉到的。 打个比方，在公园里踢几脚足球看起来很像在踢足球，其实不是在正儿八经的踢足球。 该模式参考了许多其他模式，这些模式代表了Scrum框架的关键组成部分，但它们也仅仅是一个起点。&lt;/p&gt;
+&lt;h3 id=&#34;精选内容访问-捷伴行agilehttpswwwagilewalkercom&#34;&gt;精选内容访问 &lt;a href=&#34;https://www.agilewalker.com&#34; target=&#34;_blank&#34;&gt;捷伴行Agile&lt;/a&gt;&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Scrum框架的局限性在哪里？</title>
+      <link>https://www.51scrum.com/blog/where-scrum-limits/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
       
-      <item>
-        <title>Scrum框架的局限性在哪里？</title>
-        <link>https://www.51scrum.com/blog/where-scrum-limits/</link>
-        <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://www.51scrum.com/blog/where-scrum-limits/</guid>
-        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍&lt;/h3&gt;
+      <guid>https://www.51scrum.com/blog/where-scrum-limits/</guid>
+      <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;By Mark Levison&lt;br /&gt;
 Posted on January 29, 2019Posted on January 29, 2019&lt;br /&gt;
 &lt;em&gt;我经常在研讨会上被问到：“我们在哪里不应该使用Scrum？” 精简的回答是，在很多情况下Scrum框架都不适合。 但是，要对这个问题给出更完整和有效的回答，首先，我们需要知道Scrum为什么和什么时候有效以及成功的关键条件是什么。 然后，我们可以拿出不适合的示例。&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</description>
-      </item>
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;scrum在哪里适用&#34;&gt;Scrum在哪里适用？&lt;/h3&gt;
+&lt;p&gt;Scrum是一种工具，用于建立能够成功应对不断变化的业务环境的自治，自组织，高绩效团队和组织。 人们通常选择使用Scrum的原因，是因为他们想要更高的质量或更快的速度，而不明白这其实是高绩效团队的成果，而不是Scrum本身。&lt;/p&gt;
+&lt;p&gt;Scrum已在各行各业的团队中得到有效利用，包括软件开发（其成长起来的行业），硬件开发，制造，市场营销，人力资源…甚至战斗机和天然气厂设计！ 这些截然不同的行业的共同点是它们依赖一种知识工作形式，这可以被理解为主要涉及的非常规问题解决的工作，而这些问题通常需要创造性思维。 知识工作得益于协作，这是Scrum团队的主要重点，因此Scrum非常适合这些行业也就不足为奇了。&lt;/p&gt;
+&lt;p&gt;由于团队是Scrum的核心工作单位，因此Scrum的许多局限性源于组织的团队结构。&lt;/p&gt;
+&lt;h3 id=&#34;scrum良好运行的关键条件&#34;&gt;Scrum良好运行的关键条件&lt;/h3&gt;
+&lt;p&gt;现在了解Scrum在哪里有效，我们可以考虑在给定的工作环境中Scrum正常运行需要哪些结构基础。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;知识工作&lt;/strong&gt;–看起来似乎显而易见，但值得说明的是：组织（包括大多数零售和服务行业）基于日常任务的执行而无需执行复杂的问题解决或创造性思维，就不会从使用Scrum框架中受益。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;共同目标&lt;/strong&gt;–一群人只有在有共同目标时才成为一个“团队”。 在软件开发中，共同的目标来自产品愿景和策略。 在营销团队中，这可能以品牌策略或营销活动计划的形式出现。 无论从事哪个行业，这个目标必须使所有团队成员的工作团结在一起，比他们各自的做出的贡献更重要。 没有一个共同的目标，就没有真正的凝聚力团队，凝聚力是关键。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;足够的挑战&lt;/strong&gt;–与“共同目标”并驾齐驱的是问题必须具有足够的挑战性，以至于人们独自一人无法完成工作。 如果人们可以在不与他人互动的情况下工作并且仍然实现自己的目标，那么他们通常会选择这样做。 问题的难度必须保证使用团队，否则Scrum只是不必要的开销而已。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;专注的团队成员关系&lt;/strong&gt;–在许多场合下多任务处理的成本已显而易见，并且不再像从前那样被视为一种理想的技能。指派人员到一个以上的团队中工作会迫使他们执行多项任务，从而降低他们的生产力。任何形式的多任务处理都会使人们减少产能。将他们分配给多个团队是最糟糕的事情。由于他们从一种工作环境切换到另一种环境时的延误和重新集中精力的消耗而降低了他们的产能，并且团队在等待该人员投入工作前将遇到瓶颈。最终，犯错误的数量将增加，部分原因是这些人切换环境时候会忘记关键细节。证据表明，人员专注在一个团队（只有一个团队）会使所有相关团队的吞吐量提高一倍。没有专注的团队成员关系，所有群体注定会降低生产力，而真正的团队（还不算指高绩效团队）就永远不会成立。在这种环境下，Scrum将受到极大的束缚。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;稳定的团队成员关系&lt;/strong&gt;–有效的团队需要时间才能组建。 新团队需要6到8个月的时间才能形成真正有效的凝聚力。 此外，每次成员变更时，团队的生产力都会暂时下降。 几个月后，他们可能会恢复实力，甚至可能最终有所提高，但是有些团队永远都无法恢复。 在团队成员频繁更换的情况下，团队将始终处于较低的绩效水平。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;较低的变更成本&lt;/strong&gt;–敏捷的时代已来临，因为软件变更的成本已大大降低。 多年来的许多工作都集中在进一步降低进行变更的成本上-从持续集成和测试驱动开发，到DevOps和行为驱动开发。 现代软件开发工作中的变更成本不是零，但比绿色屏幕和大型机要低得多。 为了使任何口味的敏捷都能在新环境中取得成功，降低变更成本（甚至是在后期）必须成为重中之重。 如果进行变更，在工作中会产生大量成本，那么敏捷/ Scrum就不太实用了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;可计划的&lt;/strong&gt;– Scrum团队通常以两周的Sprint进行工作，因此他们需要至少能够提前计划那么长时间的工作并允许进行小的更改。 例如，一个软件开发团队拥有足够的灵活性，可以在sprint中期解决一个生产支持问题，而不会影响Sprint的主要工作。 营销团队可以根据收到的有关客户行为的新数据来调整其营销活动。 实际的限制是至少有一半的团队工作是可计划的。 整个业务模式都是为了响应不可预测的客户需求的公司，如果使用Scrum来组织未来的工作，无法从中受益。 注意：在维修行业之外，很少有企业能够在纯粹的基于响应的业务上长期生存。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;被赋权的&lt;/strong&gt;–团队只有在团队成员感到自治的情况下才能组建。 Scrum通过将团队建立为自组织的方式明确了这一点。 希望这绝不是缺少的关键条件，但是，如果确实如此，尝试应用Scrum并不会帮助团队变得自组织和高效，但可能会暴露出问题，因此可以先解决此问题，然后再继续进行。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;跨技能是可能的&lt;/strong&gt;– Scrum（和看板团队）通过共享技能消除瓶颈，直到多个团队成员始终能够解决延迟。 瓶颈是实现高性能的根本上重要的障碍，组织最终必须解决它们。 丰田的方法是向人们支付更多报酬，以便能够处理多个工作站。 在医疗保健领域，有些司法管辖区开始通过允许以前仅由医生完成的某些工作现在由护士或执业护士来解决此问题。 同时，在某些工作环境中，由于法规，法律或根本不同的技能领域（例如，艺术家和金属工人），跨技能的适用性或价值可能受到限制，Scrum的价值也受到限制。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;早期交付和测试&lt;/strong&gt;–在Scrum中，我们不认为对用户需求的期望是正确的。 相反，我们希望尽早交付产品并收集反馈。 我们在产品发现而非创造的方式中工作。 在无法在每个Sprint结束时交付有效产品的环境中，我们无法收集反馈。 解决方案是在每个Sprint的末尾找到要展示的内容并获得反馈。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一起办公&lt;/strong&gt;–将所有团队成员都放在同一房间仍然是最佳选择。 人类已经经历了数百万年的面对面互动，因此这仍然是组建协作团队的最佳方法。 尽管远程工作和分布式团队目前在许多企业中很流行，但这些所带来的挑战却是巨大的，并导致高性能团队需要更长的成长时间。 如果绝对不可避免地要采用分布式的团队，则应用Scrum做法（例如每日站立）将更具挑战性，需要适应过程。 在分散的团队中仍然可以有效地实践Scrum –只是难度要大得多。&lt;/p&gt;
+&lt;h3 id=&#34;scrum应用不理想的例子&#34;&gt;Scrum应用不理想的例子&lt;/h3&gt;
+&lt;p&gt;因此，既然我们了解了Scrum的工作原理以及成功的条件，以下我们的排序是从Scrum最不可能提供帮助的团队到虽有挑战性但仍然可以受益的团队。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;建筑施工&lt;/strong&gt;–当一个团队负责浇筑混凝土或铺路时，变更的成本实际上就是工程成本。 总体而言，敏捷方法仍然可以使用，但是会增加成本。 考虑精益建设，帝国大厦和伦敦碎片是这类方法的例子。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;服务台和维修服务&lt;/strong&gt;–组织中的人员提供数字或基于电话的支持服务时，他们的工作确实涉及“知识工作”的关键条件，但这完全是由中断引起的。 他们可以开始处理一个问题，但是当打来的电话涉及到更重要的问题时，他们必须进行切换。 这种模式在一天中可能会重复多次。 这不符合“可计划的”条件，因此Scrum在这种情况下将无效。 考虑使用其他工具（例如看板）来改善通过任何系统的流程。 这也可能适用于其他组织和服务-基本上在知识是主要要求但工作不可计划的任何地方。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;后台操作&lt;/strong&gt;–许多组织都有从事所有后台工作的小组，例如财务和其他相关部门。 其中大部分工作（发票，费用跟踪和其他簿记工作）都是由独立工作的个人有效完成的。 尽管这项工作是基于知识的，但它通常是重复性的，因此不会具有挑战性。 这些小组通常缺乏清晰的愿景或共同目标。 我们仍然考虑使用看板而不是Scrum，作为更好地了解这些小组内部工作流程的工具。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;基础架构和技术&lt;/strong&gt;–大多数组织还拥有配置笔记本电脑，服务器，安全性，网络，防火墙和其他技术基础架构的人员。 与后勤工作相比，这项知识工作没有那么重复，而且更具挑战性，并且它可以从协作中受益，因为问题通常需要多个技能来解决。 这些小组通常也有一个共同目标（例如，保持内部用户的生产力和安全性）。 但是在许多情况下，他们的计划外工作超出了计划内工作。 但是，Scrum可以通过关注团队的计划外工作量，从而帮助他们投入工作以减少这些工作。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;现有的商业应用&lt;/strong&gt;–组织经常将许多后端软件（例如Gmail，QuickBooks，Expensify）外包给云供应商。这很好，不过最终，会有足够多的应用程序需要偶尔更改（新用户，新记帐规则等）。这些应用程序都不需要一全职个人来维护，因此最终可能需要6-7个人来维护10-15个单独的应用程序。缺乏明确的共同目标，该小组不太可能成为一个团队。 Scrum可以工作，但价值可能有限。对于基础架构和团队而言，挑战在于他们的知识可能会分散，因为人们没有理由学习另一位团队成员所在的领域。无论团队选择Scrum，看板还是其他框架，这将仍然是一个问题。考虑问问该小组是否可以重组以创建一个可能实现共同目标的空间。另一种选择是，团队可以根据自己的情况来制定目标。这些灵感来自与Petri Heiramo的对话：&lt;/p&gt;
+&lt;p&gt;鉴于他们工作的“产品”显然不足以团结他们，因此讨论需要转移到比他们正在做的工作更伟大的事情上。 他们想成为有史以来最好的支持团队吗？ 他们愿意有一半的时间做自己想做的事情吗？ 他们是否想不用做他们的工作，并尝试使其尽可能自动化？ 他们是否知道自己正在改善别人的生活，他们是否可以为此目的制定一些有价值的目标？&lt;/p&gt;
+&lt;p&gt;一种可能是问他们工作的快乐程度。如果他们不快乐，那么下一个问题可能是他们愿意努力使自己快乐。毕竟，他们的三个主要选择是：1）继续做自己在做的事情，并仍然不快乐； 2）做一些使自己更快乐，为自己的工作感到自豪的事情，或3）离开公司去做其他事情。显然，3是不理想的，也不是一个很好的起点，因此选择实际上应该在1到2之间。然后下一步是问他们是什么使他们对工作感到高兴和自豪，是什么使他们对工作感到不快乐和羞愧。这可以帮助他们建立共同的目标，使他们变得更快乐，并找到纠正措施的起点。可能会讨论如何衡量幸福和自豪感（即如何知道他们正在朝着自己的目标迈进）。只要他们在工作上取得了一些引以为傲的具体进展，他们可能会达成一些自我奖励的约定（例如星期五的啤酒），进展可以是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;消除最深层的信息瓶颈，那些能让他们在休假的时候还要带着工作压力的阻碍。&lt;/li&gt;
+&lt;li&gt;清除他们最严重的技术问题。&lt;/li&gt;
+&lt;li&gt;使脾气暴躁的客户对其团队/服务感到满意甚至高兴。&lt;/li&gt;
+&lt;li&gt;建立一些新的实践来提高生产率或减少反馈周期。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;单独的工作&lt;/strong&gt;-任何没有合作前景的业务问题（每个人或公司都孤立工作），也不会直接从Scrum中受益。 毕竟，没有团队可以成长。 在这种情况下，请考虑“个人敏捷”和“个人看板”。&lt;/p&gt;
+&lt;p&gt;团队成员分布在多个团队，没有稳定的成员关系– 这让我无法想象能有一个理想的业务环境。 如果是这种情况，Scrum能非常有效地工作以突出组织上的障碍，但不会帮助解决问题。 在每个研讨会中，我们都讨论Scrum是发现问题的工具这一事实。 从长远来看，当组织认真对待去解决Scrum发现的此类问题（而不仅仅是管理它们）时，Scrum就能成功。&lt;/p&gt;
+&lt;p&gt;我们对Scrum的应用会有不少限制，但是它们比大多数人想象的要广泛得多。&lt;/p&gt;
+&lt;p&gt;感谢Petri Heiramo为现有商业应用维护团队提供的建议和远见卓识。&lt;/p&gt;
+&lt;p&gt;原文链接：https://agilepainrelief.com/blog/what-are-the-limits-of-the-scrum-framework.html&lt;/p&gt;
+&lt;h3 id=&#34;精选内容访问-捷伴行agilehttpswwwagilewalkercom&#34;&gt;精选内容访问 &lt;a href=&#34;https://www.agilewalker.com&#34; target=&#34;_blank&#34;&gt;捷伴行Agile&lt;/a&gt;&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>翻译英文的敏捷行业专业文章，不只是谷歌翻译</title>
+      <link>https://www.51scrum.com/blog/translation-beyond-google/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       
-      <item>
-        <title>翻译英文的敏捷行业专业文章，不只是谷歌翻译</title>
-        <link>https://www.51scrum.com/blog/translation-beyond-google/</link>
-        <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://www.51scrum.com/blog/translation-beyond-google/</guid>
-        <description>&lt;blockquote&gt;
+      <guid>https://www.51scrum.com/blog/translation-beyond-google/</guid>
+      <description>&lt;blockquote&gt;
 &lt;p&gt;流行但愚蠢的态度是，一个好的经理在任何地方都可以成为一个好经理，而不需要对他所管理的生产过程有特别的了解。&lt;br /&gt;
 —爱德华.戴明&lt;/p&gt;
-&lt;/blockquote&gt;</description>
-      </item>
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;前言&#34;&gt;前言&lt;/h3&gt;
+&lt;p&gt;孔子说：一日而三省吾身。应该说是体现了敏捷思维在个人哲学意识迭代中的最早的实践应用。但真的要做到，确实有点难。改成三日一省如何？至少三天才能对一件事情有比较客观的初步认知。每次反思就像Scrum框架里的一个Sprint，总要有个时间盒子，结束后能看到增量价值交付。这里就不接着谈Kanban了，敏捷方法不是今天的主题。该反思的还是要反思，但不用太频繁。&lt;/p&gt;
+&lt;h3 id=&#34;说说翻译&#34;&gt;说说翻译&lt;/h3&gt;
+&lt;p&gt;偶尔会做些敏捷行业外文的翻译，一方面借此提升自己的行业英语水平，另一方面对行业的知识通过翻译的形式，加深自己的理解并促进工作实践。师夷长技以制夷，这里谈不上“制”，只为提升自我。&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;alignnone size-full wp-image-1189&#34; src=&#34;https://www.agilewalker.com/wp-content/uploads/2020/05/AdobeStock_240076353.png&#34; alt=&#34;&#34; width=&#34;1000&#34; height=&#34;615&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;很多人听到翻译，觉得现在应该挺简单，有谷歌翻译。不排除每个人的背景不同，本业余人士的个人理解是，一篇专业的翻译文章需要至少经历以下几个步骤：&lt;/p&gt;
+&lt;h4 id=&#34;第一步&#34;&gt;第一步&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;谷歌翻译&lt;/strong&gt;，当今社会效率至上，让人工智能解放人类的一部分时间。把译文的基本的框架涂鸦出来，当然，这个版本往往是惨不忍睹，你懂的。很快能完成。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;难度指数：1颗星
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;第二步&#34;&gt;第二步&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;专业翻译&lt;/strong&gt;，译者需要有较长时间的专业知识沉淀，理解和实践经验，结合领域专有思维。如同本文开头，戴明说的那句话。例如，agile在英语中是形容词“敏捷的”，可自从本世纪初有了大写A的Agile，这个词就成了一个专有名词，敏捷宣言的“敏捷”，成为了软件开发行业甚至日后的各大行业中更先进的理念。对每个行业来讲都是一样的，专业的事情交给专业的人。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;难度指数：5颗星
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;第三步&#34;&gt;第三步&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;共情翻译&lt;/strong&gt;，译者需要通过文字与优秀的作者共同感受。需要点虚拟穿越的想象力，进入作者在写作那一刻的环境，思想和情绪等，翻译出来冰冷的文字，也是知识，但无法把作者的情感传达给读者。例如，something must not become stale，简单翻译：某事一定不能太久，结合上下文，感受作者的心情和中文的习惯，或许可以这么翻译：我们一定不能把某事拖太久。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;难度指数：4颗星
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;第四步&#34;&gt;第四步&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;文化翻译&lt;/strong&gt;，结合中华5000年的文化特点。让浑厚的中华文明来给文章润色，这就是好好学习语文和历史的好处了，也可以经常这么教育孩子。 翻译时，我们可以考虑用成语，这是中文的很特别的地方。例如，Empty List，直接翻译就是 “空的清单”。总觉得这么翻译太干，有时候可以结合上下文，翻译成“空空如也的清单”也许就更朗朗上口。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;难度指数：3颗星
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;第五步&#34;&gt;第五步&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;通读三遍&lt;/strong&gt;，调整标点符号，段落，错别字等。文字能简单就简单，字数越少越好。首先自己觉得顺畅，标准是，把自己当成读者。帮读者易于理解，节省阅读时间，是作者和译者共同的责任，接着就可以把译文传递到下一步。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;难度指数：3颗星
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;第六步&#34;&gt;第六步&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;专家审校&lt;/strong&gt;，最后，译文由优秀的行业专家的审校是很重要的，颇有些XP中结对编程的味道，结对翻译？一个人总是难免出错，考虑不周，有同行专家的审校总是让人心里踏实很多。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;难度指数：4颗星
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;写在最后&#34;&gt;写在最后&lt;/h3&gt;
+&lt;p&gt;即便经历了前面六个步骤，要告诉自己的是，译文一定还有改进的空间，能够翻译的更好，这也是敏捷人的共同思维模式。不过，翻译工作该交的时候还是要交，从完成到完美的过程永远不会结束，所以，完成比完美更重要。优秀的翻译文章和书籍都凝聚了相关行业专家心血和对行业长期投入而获得的领悟，除此，还需要足够的文学，历史，哲学等方面的知识。&lt;/p&gt;
+&lt;h3 id=&#34;保持社交距离勤洗手&#34;&gt;保持社交距离。勤洗手。&lt;/h3&gt;
+&lt;p&gt;—&lt;/p&gt;
+&lt;p&gt;END&lt;/p&gt;
+&lt;h3 id=&#34;精选内容访问-捷伴行agilehttpswwwagilewalkercom&#34;&gt;精选内容访问 &lt;a href=&#34;https://www.agilewalker.com&#34; target=&#34;_blank&#34;&gt;捷伴行Agile&lt;/a&gt;&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>敏捷障碍清单</title>
+      <link>https://www.51scrum.com/blog/impediment-list-backlog/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <item>
-        <title>敏捷障碍清单</title>
-        <link>https://www.51scrum.com/blog/impediment-list-backlog/</link>
-        <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://www.51scrum.com/blog/impediment-list-backlog/</guid>
-        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍&lt;/h3&gt;
+      <guid>https://www.51scrum.com/blog/impediment-list-backlog/</guid>
+      <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍&lt;/h3&gt;
 &lt;p&gt;敏捷障碍清单&lt;br /&gt;
 别名：障碍待办事项&lt;/p&gt;
-&lt;p&gt;Scrum团队致力于在产品上取得进展。团队成员会经常遇到阻碍他们前进的问题。要在当时就解决这些问题也许并不可行，不太实际或者从组织或团队的角度也并不是最有价值的。&lt;/p&gt;</description>
-      </item>
-      
+&lt;p&gt;Scrum团队致力于在产品上取得进展。团队成员会经常遇到阻碍他们前进的问题。要在当时就解决这些问题也许并不可行，不太实际或者从组织或团队的角度也并不是最有价值的。&lt;/p&gt;
+&lt;p&gt;内部或外部事件可能会减缓开发团队的工作进度。团队成员也许想立即解决问题，不过这会在我们通往Sprint目标过程中投入很多精力。&lt;/p&gt;
+&lt;p&gt;另一方面，如果不立即解决这些障碍，就可能从急性问题变成慢性问题，久而久之，这些问题变得可以被接受，或者说在某种程度上被忽略了。&lt;/p&gt;
+&lt;p&gt;障碍通常会妨碍开发团队的日常工作，它也可能会降低团队绩效。比如，团队互动如果有问题就会阻碍我们的工作取得足够的进展，同样，运行速度慢或过时的设备可能会妨碍团队发挥他们的最佳状态。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;
+敏捷障碍清单
+别名：障碍待办事项
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;因此&#34;&gt;因此：&lt;/h3&gt;
+&lt;p&gt;通过敏捷的障碍清单(待办事项)使得所有重要的问题可视化，将它们提报给组织中合适的人来解决。ScrumMaster根据严重程度和价值相对的不同对这个清单里的条目进行排序。&lt;/p&gt;
+&lt;p&gt;任何Scrum团队成员都可以在列表中添加障碍使它可视化，能这么做的前提是这个Scrum团队是一个信任社区，因为有些障碍不太容易说出口，例如与健康，家庭状况或团队冲突有关的个人障碍。 团队成员应该能够向ScrumMaster倾诉这类障碍。考虑到团队中每个人的尊严问题，ScrumMaster可以时不时分散地解决一些相关的障碍。&lt;/p&gt;
+&lt;p&gt;开发团队成员自己可以解决障碍清单中的大多数条目，他们也可能会从Scrum团队之外的其他人那里获得帮助。 ScrumMaster也许亲自处理一些障碍，否则这些障碍会成为团队其他成员的烦心事，况且还不需要他们的专业知识就可以解决。也可以换种做法，开发团队可以和产品负责人一起把用于解决障碍的具体工作添加到产品待办事项中。&lt;/p&gt;
+&lt;p&gt;另外，在Sprint回顾会议期间，Scrum团队可能会在清单中添加新的障碍。 这也是完善障碍清单的绝佳的时机。&lt;/p&gt;
+&lt;p&gt;障碍清单是改善(Kaizen)意识的体现。空空如也的障碍清单说明团队还没有足够努力地去寻找改进的方法，（“没有问题就是最大的问题”）。另一方面，团队必须及时解决障碍，否则，改进就停止了。清单上的障碍一定不能拖太久。&lt;/p&gt;
+&lt;h3 id=&#34;真实的故事&#34;&gt;真实的故事：&lt;/h3&gt;
+&lt;p&gt;一个团队抱怨他们的经理没有为他们消除障碍。我问，经理是否知道有什么障碍，他们说他们“认为”他知道。于是，我让团队在荧光便笺上写上障碍条目，并在顶部写上并加粗了“阻碍”一词，然后拿去给经理。当时他不在位置上，我把它们贴在他的显示器周围，这样他肯定能看到。半个小时后，他叫着我的名字来找我。他过来问我这些是否是团队碰到的阻碍。我说：是的。他笑着说我这么做很好，他现在终于知道自己需要做什么了。&lt;/p&gt;
+&lt;h3 id=&#34;精选内容访问-捷伴行agilehttpswwwagilewalkercom&#34;&gt;精选内容访问 &lt;a href=&#34;https://www.agilewalker.com&#34; target=&#34;_blank&#34;&gt;捷伴行Agile&lt;/a&gt;&lt;/h3&gt;</description>
+    </item>
     
   </channel>
 </rss>

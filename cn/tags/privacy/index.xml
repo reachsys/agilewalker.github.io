@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>privacy on ZDoc</title>
+    <link>https://www.51scrum.com/cn/tags/privacy/</link>
+    <description>Recent content in privacy on ZDoc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy;2019 - {year} 捷伴行Agile, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.51scrum.com/cn/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rich Content</title>
+      <link>https://www.51scrum.com/cn/blog/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.51scrum.com/cn/blog/rich-content/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
+pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
+subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
+caluere tempus&lt;/p&gt;
+&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34; target=&#34;_blank&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34; target=&#34;_blank&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;instagram-simple-shortcode&#34;&gt;Instagram Simple Shortcode&lt;/h2&gt;
+&lt;br&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;youtube-privacy-enhanced-shortcode&#34;&gt;YouTube Privacy Enhanced Shortcode&lt;/h2&gt;
+&lt;br&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;twitter-simple-shortcode&#34;&gt;Twitter Simple Shortcode&lt;/h2&gt;
+&lt;br&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;vimeo-simple-shortcode&#34;&gt;Vimeo Simple Shortcode&lt;/h2&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

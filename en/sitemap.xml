@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -12,8 +12,8 @@
     <lastmod>2020-01-28T00:10:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/updates/2019_may/"
+                hreflang="cn"
+                href="https://www.51scrum.com/cn/updates/2019_may/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -27,8 +27,8 @@
     <lastmod>2020-01-28T00:10:48+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/updates/2019_april/"
+                hreflang="cn"
+                href="https://www.51scrum.com/cn/updates/2019_april/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -42,8 +42,8 @@
     <lastmod>2020-01-28T00:10:42+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/updates/2019_march/"
+                hreflang="cn"
+                href="https://www.51scrum.com/cn/updates/2019_march/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -57,8 +57,8 @@
     <lastmod>2020-01-28T00:10:37+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/updates/2019_february/"
+                hreflang="cn"
+                href="https://www.51scrum.com/cn/updates/2019_february/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -72,8 +72,8 @@
     <lastmod>2020-01-28T00:10:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/updates/2019_january/"
+                hreflang="cn"
+                href="https://www.51scrum.com/cn/updates/2019_january/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -117,8 +117,8 @@
     <lastmod>2020-09-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/blog/"
+                hreflang="cn"
+                href="https://www.51scrum.com/cn/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -177,8 +177,8 @@
     <lastmod>2020-05-01T04:15:05+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/"
+                hreflang="cn"
+                href="https://www.51scrum.com/cn/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -192,8 +192,8 @@
     <lastmod>2020-01-28T00:08:29+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/updates/"
+                hreflang="cn"
+                href="https://www.51scrum.com/cn/updates/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -207,8 +207,8 @@
     <lastmod>2019-11-09T16:20:47-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/about/"
+                hreflang="cn"
+                href="https://www.51scrum.com/cn/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -218,12 +218,17 @@
   </url>
   
   <url>
+    <loc>https://www.51scrum.com/subscriber/</loc>
+    <lastmod>2019-11-09T16:20:47-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.51scrum.com/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/tags/css/"
+                hreflang="cn"
+                href="https://www.51scrum.com/cn/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -237,8 +242,8 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/tags/html/"
+                hreflang="cn"
+                href="https://www.51scrum.com/cn/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -252,8 +257,8 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/tags/markdown/"
+                hreflang="cn"
+                href="https://www.51scrum.com/cn/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -267,8 +272,8 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/blog/markdown-syntax/"
+                hreflang="cn"
+                href="https://www.51scrum.com/cn/blog/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -282,8 +287,8 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/tags/themes/"
+                hreflang="cn"
+                href="https://www.51scrum.com/cn/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -297,8 +302,8 @@
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/tags/privacy/"
+                hreflang="cn"
+                href="https://www.51scrum.com/cn/tags/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -312,8 +317,8 @@
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/blog/rich-content/"
+                hreflang="cn"
+                href="https://www.51scrum.com/cn/blog/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -327,8 +332,8 @@
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/tags/shortcodes/"
+                hreflang="cn"
+                href="https://www.51scrum.com/cn/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -342,8 +347,8 @@
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/blog/placeholder-text/"
+                hreflang="cn"
+                href="https://www.51scrum.com/cn/blog/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -357,8 +362,8 @@
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/tags/text/"
+                hreflang="cn"
+                href="https://www.51scrum.com/cn/tags/text/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -372,8 +377,8 @@
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/tags/emoji/"
+                hreflang="cn"
+                href="https://www.51scrum.com/cn/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -387,8 +392,8 @@
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://www.51scrum.com/ko/blog/emoji-support/"
+                hreflang="cn"
+                href="https://www.51scrum.com/cn/blog/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"

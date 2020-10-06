@@ -1,19 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Escape Velocity on 捷伴行Doc</title>
+    <title>Escape Velocity on 捷伴行Thought</title>
     <link>https://www.51scrum.com/books/escape-velocity/</link>
-    <description>Recent content in Escape Velocity on 捷伴行Doc</description>
+    <description>Recent content in Escape Velocity on 捷伴行Thought</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>&amp;copy;{year} 捷伴行Agile, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate>
-    
-        <atom:link href="https://www.51scrum.com/books/escape-velocity/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    
-      
-    
+    <copyright>&amp;copy;2019 - {year} 捷伴行Agile, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 28 Feb 2020 10:08:56 +0900</lastBuildDate><atom:link href="https://www.51scrum.com/books/escape-velocity/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

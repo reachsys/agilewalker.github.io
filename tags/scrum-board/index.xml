@@ -1,29 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>scrum board on 捷伴行Doc</title>
+    <title>scrum board on 捷伴行Thought</title>
     <link>https://www.51scrum.com/tags/scrum-board/</link>
-    <description>Recent content in scrum board on 捷伴行Doc</description>
+    <description>Recent content in scrum board on 捷伴行Thought</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>&amp;copy;{year} 捷伴行Agile, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://www.51scrum.com/tags/scrum-board/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    
+    <copyright>&amp;copy;2019 - {year} 捷伴行Agile, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.51scrum.com/tags/scrum-board/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scrum面板</title>
+      <link>https://www.51scrum.com/blog/scrum-board/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
-      <item>
-        <title>Scrum面板</title>
-        <link>https://www.51scrum.com/blog/scrum-board/</link>
-        <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://www.51scrum.com/blog/scrum-board/</guid>
-        <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍&lt;/h3&gt;
-&lt;p&gt;译者序：本文说到的Scrum面板是一个重要的Scrum工具，是以物理或电子的方式展示当前Sprint范围及其状态。 在Sprint计划期间，当前Sprint计划的产品增量被分解为可执行任务。 Scrum面板主要包含故事及其相关任务，通常也称为任务板。作为以Scrum框架进行的敏捷实践中重要的可视化信息发射源，它在Scrum中被广泛应用。如果对Kanban很熟悉的朋友，这里有一句话：Kanban面板控制团队；而团队控制Scrum面板。阅读本文去品位一下吧。&lt;/p&gt;</description>
-      </item>
-      
+      <guid>https://www.51scrum.com/blog/scrum-board/</guid>
+      <description>&lt;h3 id=&#34;介绍&#34;&gt;介绍&lt;/h3&gt;
+&lt;p&gt;译者序：本文说到的Scrum面板是一个重要的Scrum工具，是以物理或电子的方式展示当前Sprint范围及其状态。 在Sprint计划期间，当前Sprint计划的产品增量被分解为可执行任务。 Scrum面板主要包含故事及其相关任务，通常也称为任务板。作为以Scrum框架进行的敏捷实践中重要的可视化信息发射源，它在Scrum中被广泛应用。如果对Kanban很熟悉的朋友，这里有一句话：Kanban面板控制团队；而团队控制Scrum面板。阅读本文去品位一下吧。&lt;/p&gt;
+&lt;h3 id=&#34;正文&#34;&gt;正文&lt;/h3&gt;
+&lt;p&gt;Sprint的规划结束于产品负责人和开发团队就Sprint目标达成一致之时。 开发团队预测了他们认为将在此Sprint中交付哪些产品待办事项（PBI）。 生产活动就此开始了。&lt;/p&gt;
+&lt;p&gt;开发团队的计划也会体现在sprint 待办列表里，团队成员正以他们认为的最佳方式运用自己的技能完成计划中的任务。并且 随着新的信息在开发过程中不断涌现，开发团队成员也在努力地重新制定相应的计划。&lt;/p&gt;
+&lt;p&gt;开发团队可能会集体忽视其构建和开发目标。 团队需要不断地同步其工作，以便根据需要检查和调整计划。 在1896年，一名英国皇家工程师上校首次将“战争迷雾”一词定义为“一种无知的状态：指挥官经常发现自己不仅对敌人，而且对朋友的真实力量和地位一无所知。 ”（ The Fog of War [HM96]）。 通常情况下，并不是信息的匮乏，而是由于迅速变化的战术局势以及大量的各种来源和格式的情报造成了迷雾。 背景噪声会阻止对于事务关键信息的及时聚焦。 信息超载会导致情绪超载，进而导致决策不力。&lt;/p&gt;
+&lt;p&gt;将自治团队与军事指挥官的情况进行比较。我们可以根据Sprint目标来定义战略方向，而在较小程度上可以根据开发团队对此Sprint的预测来完成PBI的工作。 PBI通常是实现Sprint目标的业务紧迫性的一种方法，而任务或工作项是实现PBI的战术目标。它们是团队选择的用以完成PBI的途径。开发团队可能会在Sprint backlog工作开始时就规划出这条途径，但是进展让事情越发清晰，从而挫败了所谓的最佳计划。因此，团队必须经常重新考虑他们的战术。没有透明性，具有不同职能背景的人们之间的协作将更加困难。各个开发团队成员需要不断地被提醒，他们的工作与Sprint目标的总体规划如何相关，整个团队需要定期集体关注该目标。因此：创建一个Scrum面板，代表Sprint backlog及其在Sprint期间的进展。开发团队对其进行维护，控制和拥有。将其张贴在所有开发团队成员都可以轻松访问的地方，作为一个信息辐射器。 Scrum面板，又称任务板，通常是墙上的大海报；它将开发任务和其他Sprint待办事项与产品待办事项关联，并将PBI与相应的Sprint目标关联。&lt;/p&gt;
+&lt;p&gt;团队现在可以将任务的战术工作状态连同PBI完成状态一起可视化，并且可以使用特定任务状态来确定他们是否仍然进展正常或者是否需要更新工作计划以完成PBI或达到Sprint目标 。 如果团队可以在Sprint Backlog上看到进度，就可以使重新规划变得更加容易。 团队可以与Scrum面板一起发布Sprint目标声明和Sprint燃尽图。&lt;/p&gt;
+&lt;p&gt;开发团队共同拥有Scrum面板，并且通常在团队完成Sprint待办事项时才会对其进行更新。不过ScrumMaster可能希望提醒开发团队使Scrum面板时刻保持最新，同时也会帮助开发团队了解Scrum面板上体现的数据的重要性。尤其是当不完整或延迟的开发任务或其他Sprint待办事项可能影响到开发团队而不能实现其预期的工作时，团队可以采取集体行动移除这个障碍。&lt;/p&gt;
+&lt;p&gt;简而言之，Scrum面板是行动管理的计划工具，由开发团队拥有和控制，因此，可以帮助建立开发团队真正实现自我管理并形成必要的肌肉记忆。 持续使用Scrum面板可以降低开发人员试图发现其他开发团队成员正在做什么的沟通成本，并降低他们管理各种任务之间的依赖关系的成本。 总而言之，它可以帮助每个人保持集体的注意力。可能的话，最好将每日Scrum安排在Scrum面板周围，这样开发团队可以使用最新信息来创建每日计划。&lt;/p&gt;
+&lt;p&gt;Scrum没有规定Scrum面板的格式。 由团队来决定呈现所需信息的最佳方法。 所有开发人员都应该有可能作为一个团队一起查看和操纵Scrum面板。 较小的计算机屏幕不太合适，即使屏幕很大，使用键盘或指针设备移动项目也很麻烦。 最好的Scrum面板可以触碰到，并使用简单的“技术”，例如便签或白板。 以下仅描述一个示例：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;面板是展示矩阵的大海报。卡和便签分别代表PBI和Sprint待办事项。 团队移动便签，以表示进度直至完成。&lt;/li&gt;
+&lt;li&gt;面板显眼地将“ Sprint目标”显示为命名的状态或解释最终用户如何受益的简短说明。&lt;/li&gt;
+&lt;li&gt;图表在当前Sprint中的每个PBI都有一行。每个PBI都有一栏；对于Sprint待办事项“待办事项”；对于Sprint待办事项“进行中”；对于完成的Sprint待办事项和完成的PBI是“完成”。&lt;/li&gt;
+&lt;li&gt;代表PBI的卡片从PBI列开始，只有在完成所有Sprint待办事项且满足“完成”定义的情况下，团队才会将其移动到“完成”列。开发团队成员开始任务时，会将代表它的便笺移动到“进行中”列。当他们完成Sprint待办事项时，便会将其便笺移动到“完成”列，处理该便笺的开发人员现在就可以选择一个新的便笺。&lt;/li&gt;
+&lt;li&gt;当所有PBI卡都到达“完成”列时，开发团队已达到其预期。&lt;/li&gt;
+&lt;li&gt;每个Scrum面板的持续时间为Sprint的长度。新的Sprint需要团队创建一个新的Scrum 面板或重置一个现有的Scrum 面板。这个模式是个信息辐射器，与Sprint 燃尽图相关。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;不过，尽管表面上有相似之处，不应将Scrum面板与看板面板混淆。 尽管它们都描述了工作项在不同状态下的移动进度，但目的并不相同。 自治团队拥有并控制Scrum面板：但不受面板控制。 它只是一种工具，使团队可以根据需要计划和重新计划如何在Sprint中实现其目标。&lt;/p&gt;
+&lt;p&gt;另一方面，看板面板映射了产品或功能的生命周期，从产品开发到产品进入其各种状态（可能有多个团队在此工作），直至团队将功能交付给顾客。每个状态都有与之关联的在制品（WIP）限制。看板的拥护者（在软件开发中；请参见Successful Evolutionary Change for Your Technology Business [And10]）声称，它可视化了一个“拉动”系统，其中每个上游状态仅在下游有可用容量时才将其输出送到下一个下游状态。不过，看板不要求团队具有跨职能或自我管理的能力。由谁来控制面板及设置在制品限制都是开放的。在这种情况下，命令与控制的管理人员可以通过设置任意WIP限制并迫使开发人员发挥完全的能力，将看板板转变为“推送”系统。相比之下，在Scrum中，自我管理的开发团队通过逐个Sprint从产品Backlog的顶部拉出PBI，并通过集群战术来完成每一个Sprint待办事项。&lt;/p&gt;
+&lt;p&gt;最后一点：外行通常将“做Scrum”等同于使用Scrum面板。 尽管Scrum面板是Scrum组织中最引人注目的工具之一（另一个是每日Scrum），不过Scrum所拥有的功能远远超出任何一套工具所能捕捉到的。 打个比方，在公园里踢几脚足球看起来很像在踢足球，其实不是在正儿八经的踢足球。 该模式参考了许多其他模式，这些模式代表了Scrum框架的关键组成部分，但它们也仅仅是一个起点。&lt;/p&gt;
+&lt;h3 id=&#34;精选内容访问-捷伴行agilehttpswwwagilewalkercom&#34;&gt;精选内容访问 &lt;a href=&#34;https://www.agilewalker.com&#34; target=&#34;_blank&#34;&gt;捷伴行Agile&lt;/a&gt;&lt;/h3&gt;</description>
+    </item>
     
   </channel>
 </rss>
